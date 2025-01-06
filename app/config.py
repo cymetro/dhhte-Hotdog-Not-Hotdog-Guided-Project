@@ -8,8 +8,6 @@ This file contains all configurables of our app.
 config = {
     "model_weight": "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/hotdog-not-hotdog/data"
                     "/model_weight.pt",
-    # TODO: Change it!
-    "project_name": "SAMPLE PROJECT NAME",
-    # TODO: Change it!
-    "project_description": "SAMPLE PROJECT DESCRIPTION"
+    "project_name": "HotDogClassifier",
+    "project_description": "Follow along of the HotDogClassifier project"
 }
